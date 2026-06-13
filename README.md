@@ -175,16 +175,13 @@ Phase 4: Deployment
 📷 Project Screenshots
 
 Power BI Dashboard
+<img width="1435" height="798" alt="Dashboard" src="https://github.com/user-attachments/assets/18eb0b84-ec9f-459c-8c22-c60b374b1e89" />
 
-(Add Dashboard Screenshots Here)
+**<img width="1440" height="803" alt="Routes_analysis" src="https://github.com/user-attachments/assets/afc04b91-f04e-43d5-bb94-105e6211fb5e" />
+**
 
 Streamlit Application
 
-(Add Streamlit Screenshots Here)
-
-Prediction Results
-
-(Add Prediction Screenshots Here)
 
 ⸻
 
